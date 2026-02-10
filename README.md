@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Aero-HQ
+# Aero-HQ
 
 **Accelerated Execution Runtime Optimization**
 
@@ -12,8 +12,8 @@
 
 | | Repo | Description |
 |:---:|:---|:---|
-| 📐 | [**aerotensor**](https://github.com/Aero-HQ/aerotensor) | Format library — read/write `.aero` and AEROSET |
-| ▶️ | [**aeroruntime**](https://github.com/Aero-HQ/aeroruntime) | Inference runtime — run models from `.aero` files |
+| | [**aerotensor**](https://github.com/Aero-HQ/aerotensor) | Format library — read/write `.aero` and AEROSET |
+| | [**aeroruntime**](https://github.com/Aero-HQ/aeroruntime) | Inference runtime — run models from `.aero` files |
 
 ---
 
